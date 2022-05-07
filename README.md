@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MRaafat87
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Machine Learning, NLP and Deep Learning.
-- 💞️ I’m looking to collaborate on ML and Deep Learning projects.
+- 👀 I’m interested in Artificial Intellegence.
+- 🌱 I’m currently Data Analyst and learning Machine Learning, NLP and Deep Learning.
+- 💞️ I’m looking to collaborate on Data Analysis, Machine Learning and Deep Learning projects.
 - 📫 How to reach me eng.mraafat002@gmail.com
 
 <!---
